@@ -1,0 +1,26 @@
+{
+  "name": "jsvanillawebcomponentcli",
+  "version": "1.0.0",
+  "description": "CLI to generate vanilla javascript web components",
+  "main": "bin/index.js",
+  "scripts": {},
+  "keywords": [
+    "cli",
+    "javascript",
+    "vanilla",
+    "web component"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "webc": "./bin/index.js"
+  },
+  "author": "RFCM",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "esm": "^3.2.25"
+  }
+}
