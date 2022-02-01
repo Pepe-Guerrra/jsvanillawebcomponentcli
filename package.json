@@ -21,12 +21,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/my-name/my_package.git"
+    "url": "https://github.com/Pepe-Guerrra/jsvanillawebcomponentcli.git"
   },
   "bugs": {
-    "url": "https://github.com/my-name/my_package/issues"
+    "url": "https://github.com/Pepe-Guerrra/jsvanillawebcomponentcli/issues"
   },
-  "homepage": "https://github.com/my-name/my_package",
+  "homepage": "https://github.com/Pepe-Guerrra/jsvanillawebcomponentcli",
   "files": [
     "src",
     "bin",
