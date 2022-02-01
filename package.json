@@ -19,6 +19,20 @@
   },
   "author": "RFCM",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/my-name/my_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/my-name/my_package/issues"
+  },
+  "homepage": "https://github.com/my-name/my_package",
+  "files": [
+    "src",
+    "bin",
+    "package.json",
+    "README.md"
+  ],
   "dependencies": {
     "commander": "^8.3.0",
     "esm": "^3.2.25"
